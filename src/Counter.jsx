@@ -9,6 +9,9 @@ export default function Counter() {
         className='btn btn-close '>
       
       </button>
+
+      \
+      <h1>Tarek</h1>
     </div>
   
   )

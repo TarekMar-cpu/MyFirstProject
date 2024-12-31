@@ -10,7 +10,7 @@ export default function Counter() {
       
       </button>
 
-      \
+      <h1>git init</h1>
       <h1>Tarek</h1>
     </div>
   
